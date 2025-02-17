@@ -34,8 +34,7 @@ Ensure you have Python installed (>=3.8). You also need an OpenAI API key for em
 
 - 1. Clone this repository:
 
-git clone https://github.com/your-username/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/fretaabrish/LLM_RAG.git
 
 - 2. Install dependencies:
 
@@ -114,15 +113,3 @@ If the chatbot provides incorrect answers, consider:
 - Integration with FAISS for alternative vector database storage.
 
 - Deployment as an API using FastAPI or Flask.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
-## Contact
-
-For inquiries or suggestions, reach out via GitHub Issues or email.
